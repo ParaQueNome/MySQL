@@ -1,3 +1,3 @@
 # MySQL
 
-Adicionando Exercicios de SQL sobre Bancos de Dados Relacional
+Repositorio referente a matéria de Desenvolvimento WEB II FATEC ARARAS
